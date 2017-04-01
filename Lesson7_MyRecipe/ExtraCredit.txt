@@ -1,0 +1,4 @@
+For my recipe assignmnet I added all the animations that were included
+in the main assignment. I changed the colors to match the banana background.
+I also made sure the ingredients and instructions were still clickable
+and hovered when you tried to see the information. 
